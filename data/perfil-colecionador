@@ -1,0 +1,18 @@
+{
+  "nome_colecionador": "Senhor Numismático",
+  "perfil": "Colecionador sênior, foco em catalogação e preservação da memória do acervo",
+  "nivel_conhecimento": "Iniciante em catalogação digital; alto conhecimento prático sobre as moedas",
+  "interesses": [
+    "Moedas brasileiras do período imperial e republicano",
+    "Moedas europeias do século XIX e início do XX",
+    "História por trás de cada denominação"
+    "Receber informações contidas nos dados da base, como ano e tamanho da tiragem, tipo de metal, estado de conservação, ..."
+  ],
+  "paises_foco": ["Brasil", "Portugal", "Espanha", "França", "Itália", "Estados Unidos"],
+  "objetivo_do_projeto": "Organizar, entender e transmitir a história das moedas para a próxima geração",
+  "preferencias_de_atendimento": {
+    "tom": "Didático, acolhedor, convidativo e sóbrio nas certezas",
+    "linguagem": "Português claro, sem jargão técnico desnecessário",
+    "formato": "Respostas curtas, com convite para aprofundar"
+  }
+}
