@@ -9,8 +9,8 @@ MODELO = "gwen2.5"
 
 # ============ CARREGAR DADOS ============
 acervo = pd.read_csv("./data/acervo_moedas.csv")
-denominacoes = json.load(open("./data/denominacoes.json")
-perfil = json.load(open("./data/perfil_colecionador.json")
+denominacoes = json.load(open("./data/denominacoes.json"))
+perfil = json.load(open("./data/perfil_colecionador.json"))
 
 # ============ MONTAR CONTEXTO ============
 contexto = f"""
