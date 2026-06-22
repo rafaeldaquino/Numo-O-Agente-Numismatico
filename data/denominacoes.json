@@ -1,0 +1,315 @@
+{
+  "_meta": {
+    "descricao": "Base de conhecimento curada sobre sistemas monetários e denominações. É a fonte da verdade da Camada 2 do agente Numo. O contexto histórico abaixo foi revisado manualmente. O agente DEVE se basear neste arquivo ao contextualizar uma denominação e NÃO deve inventar datas, tiragens ou superlativos que não estejam aqui.",
+    "convencao": "As datas são aproximadas e referem-se ao sistema monetário, não a uma emissão específica. Quando uma denominação não estiver listada, o agente deve dizer que não tem o dado e sugerir como o colecionador pode pesquisá-lo.",
+    "total_denominacoes": 34
+  },
+  "denominacoes": {
+    "Réis": {
+      "sistema_monetario": "Real (plural: réis)",
+      "regiao": "Portugal e Brasil",
+      "periodo_aproximado": "Idade Média (Portugal) até 1942 (Brasil)",
+      "contexto_historico": "O real foi a unidade monetária de Portugal por séculos e acompanhou a colonização, tornando-se a base do dinheiro que circulou no Brasil desde o período colonial. Como os valores eram altos, era comum contar em milhares de réis (o 'mil-réis').",
+      "transicao": "No Brasil, o sistema em réis foi substituído pelo cruzeiro em 1942.",
+      "curiosidade": "A grafia '1$000' representava mil réis, com o cifrão separando os milhares das centenas.",
+      "cuidado": "Evite afirmar que foi 'a primeira moeda do Brasil' — a história das primeiras cunhagens tem nuances. Descreva o sistema, não crave pioneirismos."
+    },
+    "Cruzeiro": {
+      "sistema_monetario": "Cruzeiro",
+      "regiao": "Brasil",
+      "periodo_aproximado": "1942 a 1994 (em vários ciclos)",
+      "contexto_historico": "O cruzeiro substituiu o sistema em réis em 1942 e foi a moeda brasileira ao longo de décadas marcadas por sucessivas reformas monetárias e cortes de zeros.",
+      "transicao": "Alternou-se com o cruzado e o cruzeiro real até a chegada do real, em 1994.",
+      "curiosidade": "O Brasil trocou de padrão monetário diversas vezes no século XX por causa da inflação.",
+      "cuidado": "Houve mais de uma fase de 'cruzeiro' (e 'cruzeiro novo'); confirme o período da peça antes de detalhar."
+    },
+    "Cruzado": {
+      "sistema_monetario": "Cruzado",
+      "regiao": "Brasil",
+      "periodo_aproximado": "1986 a 1989",
+      "contexto_historico": "O cruzado foi introduzido em 1986 como parte de um plano econômico, cortando zeros do cruzeiro num esforço de combate à inflação.",
+      "transicao": "Foi seguido pelo cruzado novo e, depois, por novas trocas até o real.",
+      "curiosidade": "Faz parte de uma sequência de moedas de vida curta no Brasil dos anos 1980-90.",
+      "cuidado": "Não confunda 'cruzado' com 'cruzado novo'; são fases distintas e próximas no tempo."
+    },
+    "Real": {
+      "sistema_monetario": "Real (moderno)",
+      "regiao": "Brasil",
+      "periodo_aproximado": "1994 até hoje",
+      "contexto_historico": "O real moderno foi criado em 1994 pelo Plano Real, encerrando um longo ciclo de instabilidade monetária e estabilizando a economia. É subdividido em 100 centavos.",
+      "transicao": "Substituiu o cruzeiro real e segue em circulação.",
+      "curiosidade": "Embora compartilhe o nome com o antigo 'real' colonial, trata-se de uma moeda nova e independente daquele sistema.",
+      "cuidado": "Distinga o real moderno (pós-1994) do real/réis colonial e imperial — são sistemas diferentes que apenas compartilham o nome."
+    },
+    "Centavos": {
+      "sistema_monetario": "Subdivisão decimal (1/100 da unidade principal)",
+      "regiao": "Diversos países",
+      "periodo_aproximado": "Sobretudo a partir do século XIX",
+      "contexto_historico": "Centavo é o nome dado à fração de várias moedas: corresponde a 1/100 da unidade principal de cada país. Seu contexto depende do sistema a que pertence (centavo de escudo, de peso etc.).",
+      "transicao": "Acompanha a moeda principal de cada país.",
+      "curiosidade": "A divisão da moeda em 100 partes (decimalização) espalhou-se pelo mundo a partir do fim do século XVIII.",
+      "cuidado": "Sempre identifique de qual país/sistema é o centavo antes de contextualizar."
+    },
+    "Escudo": {
+      "sistema_monetario": "Escudo português",
+      "regiao": "Portugal",
+      "periodo_aproximado": "1911 a 2002",
+      "contexto_historico": "O escudo foi adotado em Portugal em 1911, após a proclamação da República, substituindo o antigo sistema em réis. Era subdividido em 100 centavos.",
+      "transicao": "Substituiu o real (1911) e foi substituído pelo euro em 2002.",
+      "curiosidade": "Por décadas os portugueses contavam grandes quantias em 'contos', sendo um conto igual a mil escudos.",
+      "cuidado": "Não confundir o escudo português com escudos de ex-colônias."
+    },
+    "Dólar": {
+      "sistema_monetario": "Dólar dos Estados Unidos",
+      "regiao": "Estados Unidos",
+      "periodo_aproximado": "1792 até hoje",
+      "contexto_historico": "O dólar foi estabelecido como moeda dos Estados Unidos pelo Coinage Act de 1792, que também criou a casa da moeda nacional. É subdividido em 100 cents.",
+      "transicao": "Continua em circulação.",
+      "curiosidade": "O nome 'dólar' deriva do táler, moeda de prata da Europa central.",
+      "cuidado": "Há vários tipos de 'dólar de prata' ao longo da história — não generalize de um para todos."
+    },
+    "Cent": {
+      "sistema_monetario": "Subdivisão do dólar (1/100)",
+      "regiao": "Estados Unidos",
+      "periodo_aproximado": "Fim do século XVIII até hoje",
+      "contexto_historico": "O cent é a menor unidade do dólar americano, equivalente a 1/100. Seu metal e desenho mudaram diversas vezes ao longo da história.",
+      "transicao": "Continua em circulação.",
+      "curiosidade": "Durante a Segunda Guerra houve alteração nos metais de algumas moedas por causa da demanda bélica.",
+      "cuidado": "O metal e o desenho variam muito por período; relacione sempre ao ano da peça."
+    },
+    "Pesetas": {
+      "sistema_monetario": "Peseta espanhola",
+      "regiao": "Espanha",
+      "periodo_aproximado": "1868 a 2002",
+      "contexto_historico": "A peseta foi a moeda oficial da Espanha a partir de 1868, num esforço de modernização e alinhamento com sistemas europeus da época. Era subdividida em 100 céntimos.",
+      "transicao": "Substituída pelo euro em 2002.",
+      "curiosidade": "Emissões em prata do fim do século XIX são apreciadas por colecionadores.",
+      "cuidado": "Confirme o ano: em mais de um século houve muitas variações de desenho e de governante retratado."
+    },
+    "Peso": {
+      "sistema_monetario": "Peso (vários países)",
+      "regiao": "América Latina e Filipinas",
+      "periodo_aproximado": "Do período colonial espanhol até hoje",
+      "contexto_historico": "O peso tem origem no 'peso de oito' espanhol e tornou-se a unidade de vários países que foram colônias da Espanha, como México, Argentina e Chile, cada um com sua própria história.",
+      "transicao": "Continua em uso em diversos países, com valores e reformas independentes.",
+      "curiosidade": "Por ser tão difundido, 'peso' designa moedas bem diferentes entre si conforme o país.",
+      "cuidado": "Sempre identifique o país: peso mexicano, argentino e chileno têm histórias e valores distintos."
+    },
+    "Franc": {
+      "sistema_monetario": "Franco francês",
+      "regiao": "França",
+      "periodo_aproximado": "Forma moderna de 1795 a 2002",
+      "contexto_historico": "O franco tem raízes medievais, mas o franco moderno e decimal foi estabelecido durante a Revolução Francesa, em 1795, padronizando o sistema em 100 cêntimos.",
+      "transicao": "Substituído pelo euro em 2002.",
+      "curiosidade": "O nome 'franco' aparece em vários países francófonos, com histórias próprias.",
+      "cuidado": "Não confunda o franco francês com francos suíço, belga ou de países africanos."
+    },
+    "Dracma": {
+      "sistema_monetario": "Dracma (Grécia moderna)",
+      "regiao": "Grécia",
+      "periodo_aproximado": "1832 a 2002 (Grécia moderna)",
+      "contexto_historico": "A dracma foi a moeda da Grécia moderna a partir de 1832, retomando um nome de longa tradição: dracmas já circulavam na Grécia Antiga. Era subdividida em 100 léptas.",
+      "transicao": "Substituída pelo euro em 2002.",
+      "curiosidade": "Poucas moedas têm um nome com tamanha longevidade, da Antiguidade ao século XXI.",
+      "cuidado": "Distinga a dracma ANTIGA (Grécia clássica) da MODERNA — contextos muito diferentes."
+    },
+    "Lira": {
+      "sistema_monetario": "Lira italiana",
+      "regiao": "Itália",
+      "periodo_aproximado": "1861 a 2002",
+      "contexto_historico": "A lira tornou-se a moeda da Itália a partir da unificação do país, em 1861, padronizando dezenas de moedas regionais anteriores num único sistema.",
+      "transicao": "Substituída pelo euro em 2002.",
+      "curiosidade": "O nome 'lira' deriva da libra romana (unidade de peso), assim como 'libra' e 'livre'.",
+      "cuidado": "Existiram liras em outros países (ex.: Turquia); confirme a origem da peça."
+    },
+    "Penny": {
+      "sistema_monetario": "Penny / Libra esterlina (sistema pré-decimal)",
+      "regiao": "Reino Unido",
+      "periodo_aproximado": "Sistema pré-decimal até 1971",
+      "contexto_historico": "Antes de 1971, a libra usava um sistema não-decimal conhecido como £sd: 12 pence formavam 1 xelim e 20 xelins formavam 1 libra. Em 1971 ocorreu a decimalização, e a libra passou a valer 100 novos pence.",
+      "transicao": "A libra segue em uso, mas decimal desde 1971.",
+      "curiosidade": "O sistema antigo de libras, xelins e pence sobreviveu por séculos.",
+      "cuidado": "Distinga o 'penny' antigo (pré-1971) do 'new penny' (pós-decimalização)."
+    },
+    "Libra Esterlina": {
+      "sistema_monetario": "Libra esterlina (pound)",
+      "regiao": "Reino Unido",
+      "periodo_aproximado": "Origens medievais até hoje",
+      "contexto_historico": "A libra esterlina é uma das unidades monetárias em uso contínuo mais antigas do mundo, com raízes que remontam à Inglaterra medieval. Originalmente ligava-se a um peso em prata.",
+      "transicao": "Segue em circulação; tornou-se decimal em 1971.",
+      "curiosidade": "O símbolo £ deriva da letra L de 'libra', a palavra latina para a unidade de peso.",
+      "cuidado": "Não confunda a libra esterlina com a antiga libra romana (unidade de peso)."
+    },
+    "Xelim": {
+      "sistema_monetario": "Xelim (shilling) — subdivisão pré-decimal",
+      "regiao": "Reino Unido e Commonwealth",
+      "periodo_aproximado": "Até 1971 (Reino Unido)",
+      "contexto_historico": "O xelim era uma peça intermediária do antigo sistema britânico: 1 xelim valia 12 pence, e 20 xelins formavam 1 libra.",
+      "transicao": "Deixou de existir com a decimalização de 1971.",
+      "curiosidade": "O xelim também circulou em diversos países da Commonwealth.",
+      "cuidado": "Confirme o país: houve xelins em várias ex-colônias britânicas, com histórias próprias."
+    },
+    "Marco": {
+      "sistema_monetario": "Marco alemão",
+      "regiao": "Alemanha",
+      "periodo_aproximado": "1873 a 2002 (em diferentes formas)",
+      "contexto_historico": "O marco foi a unidade monetária alemã em várias fases: do marco-ouro do Império, passando pela República e pelo marco alemão do pós-guerra, símbolo da recuperação econômica.",
+      "transicao": "O marco alemão foi substituído pelo euro em 2002.",
+      "curiosidade": "Durante a hiperinflação dos anos 1920, foram emitidas cédulas de valores astronômicos.",
+      "cuidado": "Há marcos distintos (Goldmark, Reichsmark, Deutsche Mark); identifique a fase pela data."
+    },
+    "Pfennig": {
+      "sistema_monetario": "Subdivisão do marco (1/100)",
+      "regiao": "Alemanha",
+      "periodo_aproximado": "Séculos até 2002",
+      "contexto_historico": "O pfennig foi por muito tempo a menor unidade do dinheiro alemão, equivalente à fração do marco. É uma das denominações alemãs mais antigas em nome.",
+      "transicao": "Desapareceu com a adoção do euro em 2002.",
+      "curiosidade": "O nome 'pfennig' tem parentesco com o 'penny' inglês.",
+      "cuidado": "O metal mudou bastante conforme a época (inclusive ferro e zinco em períodos de guerra)."
+    },
+    "Coroa": {
+      "sistema_monetario": "Coroa (krona/krone)",
+      "regiao": "Países nórdicos",
+      "periodo_aproximado": "Fim do século XIX até hoje (em vários países)",
+      "contexto_historico": "A coroa é a unidade de países como Suécia, Noruega e Dinamarca, adotada no fim do século XIX a partir de uma união monetária escandinava.",
+      "transicao": "Segue em uso em vários desses países.",
+      "curiosidade": "O nome remete às coroas reais retratadas historicamente nas moedas.",
+      "cuidado": "Coroa sueca, norueguesa e dinamarquesa são moedas distintas; confirme o país."
+    },
+    "Florim": {
+      "sistema_monetario": "Florim (gulden)",
+      "regiao": "Países Baixos (e origem em Florença)",
+      "periodo_aproximado": "Da Idade Média até 2002 (Holanda)",
+      "contexto_historico": "O florim nasceu como moeda de ouro de Florença na Idade Média e o nome se espalhou pela Europa. Na Holanda, o florim (gulden) foi a unidade nacional até a chegada do euro.",
+      "transicao": "O florim holandês foi substituído pelo euro em 2002.",
+      "curiosidade": "O símbolo 'ƒ' era usado para o florim holandês.",
+      "cuidado": "Houve florins em vários países e épocas; distinga o florim de ouro medieval do gulden moderno."
+    },
+    "Rublo": {
+      "sistema_monetario": "Rublo",
+      "regiao": "Rússia e União Soviética",
+      "periodo_aproximado": "Da Rússia czarista até hoje",
+      "contexto_historico": "O rublo é uma das moedas mais antigas ainda em uso, atravessando o Império Russo, a União Soviética e a Rússia atual. É subdividido em 100 copeques.",
+      "transicao": "Segue em circulação na Rússia.",
+      "curiosidade": "Moedas soviéticas em prata da década de 1920 são procuradas por colecionadores.",
+      "cuidado": "Distinga o rublo czarista, o soviético e o russo atual — contextos políticos bem diferentes."
+    },
+    "Copeque": {
+      "sistema_monetario": "Subdivisão do rublo (1/100)",
+      "regiao": "Rússia e União Soviética",
+      "periodo_aproximado": "Séculos até hoje",
+      "contexto_historico": "O copeque (kopek) é a fração do rublo, uma das menores denominações russas, com longa tradição histórica.",
+      "transicao": "Ainda existe como subdivisão do rublo.",
+      "curiosidade": "O nome estaria ligado à figura de um cavaleiro com lança retratada em moedas antigas.",
+      "cuidado": "O valor real do copeque variou muito ao longo das reformas monetárias russas."
+    },
+    "Iene": {
+      "sistema_monetario": "Iene japonês",
+      "regiao": "Japão",
+      "periodo_aproximado": "1871 até hoje",
+      "contexto_historico": "O iene foi adotado em 1871 como parte da modernização do Japão na era Meiji, substituindo um sistema monetário fragmentado por um padrão decimal.",
+      "transicao": "Segue em circulação.",
+      "curiosidade": "O nome 'iene' significa, em essência, 'objeto redondo'.",
+      "cuidado": "As subdivisões antigas (sen e rin) caíram em desuso; relacione-as apenas a peças antigas."
+    },
+    "Yuan": {
+      "sistema_monetario": "Yuan (renminbi)",
+      "regiao": "China",
+      "periodo_aproximado": "Do início do século XX até hoje",
+      "contexto_historico": "O yuan é a unidade da moeda chinesa; 'renminbi' é o nome oficial do sistema monetário, e 'yuan' é a unidade de conta. Substituiu sistemas anteriores baseados em prata.",
+      "transicao": "Segue em circulação.",
+      "curiosidade": "Os nomes 'yuan', 'iene' e 'won' têm origem comum, ligada a 'objeto redondo'.",
+      "cuidado": "Não confunda renminbi (o sistema) com yuan (a unidade)."
+    },
+    "Rúpia": {
+      "sistema_monetario": "Rúpia",
+      "regiao": "Índia e Sul da Ásia",
+      "periodo_aproximado": "Do século XVI até hoje",
+      "contexto_historico": "A rúpia tem origem em moedas de prata do subcontinente indiano e tornou-se a unidade de vários países da região. O nome vem de uma palavra sânscrita para prata.",
+      "transicao": "Segue em uso na Índia e em países vizinhos.",
+      "curiosidade": "Vários países usam 'rúpia' com histórias e valores próprios (Índia, Paquistão, Sri Lanka etc.).",
+      "cuidado": "Identifique o país: rúpias de diferentes nações não se equivalem."
+    },
+    "Won": {
+      "sistema_monetario": "Won",
+      "regiao": "Coreia",
+      "periodo_aproximado": "Início do século XX até hoje (em fases)",
+      "contexto_historico": "O won é a unidade monetária coreana, usada tanto na Coreia do Sul quanto, em sistema separado, na Coreia do Norte.",
+      "transicao": "Segue em circulação, com reformas ao longo do tempo.",
+      "curiosidade": "O nome compartilha origem com 'yuan' e 'iene'.",
+      "cuidado": "Distinga o won sul-coreano do norte-coreano."
+    },
+    "Dinar": {
+      "sistema_monetario": "Dinar",
+      "regiao": "Mundo árabe e Bálcãs (e origem romana)",
+      "periodo_aproximado": "Do mundo islâmico medieval até hoje",
+      "contexto_historico": "O dinar é a unidade de vários países árabes e tem nome derivado do 'denarius' romano. Foi uma importante moeda de ouro no mundo islâmico medieval.",
+      "transicao": "Segue em uso em diversos países, com histórias independentes.",
+      "curiosidade": "A herança do denário romano sobrevive no nome de moedas atuais.",
+      "cuidado": "Há muitos dinares (Iraque, Jordânia, Sérvia etc.); confirme o país."
+    },
+    "Dirham": {
+      "sistema_monetario": "Dirham",
+      "regiao": "Mundo islâmico (e origem grega)",
+      "periodo_aproximado": "Do mundo islâmico medieval até hoje",
+      "contexto_historico": "O dirham foi uma moeda de prata fundamental no mundo islâmico medieval e segue como unidade em países como Marrocos e Emirados. O nome deriva da dracma grega.",
+      "transicao": "Ainda em uso em diversos países.",
+      "curiosidade": "Dirhams medievais de prata circularam amplamente em rotas de comércio, inclusive na Europa.",
+      "cuidado": "Distinga o dirham histórico do dirham moderno de cada país."
+    },
+    "Ducado": {
+      "sistema_monetario": "Ducado",
+      "regiao": "Europa (notadamente Veneza)",
+      "periodo_aproximado": "Idade Média e Renascimento até o século XIX",
+      "contexto_historico": "O ducado foi uma moeda de ouro de grande prestígio na Europa, especialmente o ducado veneziano, aceito amplamente no comércio internacional por sua pureza constante.",
+      "transicao": "Caiu em desuso com a adoção de moedas nacionais modernas.",
+      "curiosidade": "Sua reputação de ouro confiável o tornou referência comercial por séculos.",
+      "cuidado": "Houve ducados em vários estados europeus; não generalize características."
+    },
+    "Táler": {
+      "sistema_monetario": "Táler (thaler)",
+      "regiao": "Europa Central",
+      "periodo_aproximado": "Século XVI ao XIX",
+      "contexto_historico": "O táler foi uma grande moeda de prata da Europa Central, amplamente usada no comércio. Seu nome e padrão deram origem à palavra 'dólar'.",
+      "transicao": "Cedeu lugar às moedas nacionais modernas no século XIX.",
+      "curiosidade": "O famoso táler de Maria Teresa continuou a ser cunhado por muito tempo após sua época.",
+      "cuidado": "Existiram muitos tipos de táler; identifique o estado emissor e o período."
+    },
+    "Soberano": {
+      "sistema_monetario": "Soberano (sovereign) — moeda de ouro",
+      "regiao": "Reino Unido",
+      "periodo_aproximado": "Forma moderna a partir de 1817",
+      "contexto_historico": "O soberano é uma moeda de ouro britânica, em sua forma moderna a partir de 1817, tradicionalmente com o valor de uma libra. É muito procurada por seu conteúdo de ouro.",
+      "transicao": "Deixou de circular como dinheiro comum, mas ainda é cunhado para investidores e colecionadores.",
+      "curiosidade": "A imagem de São Jorge a cavalo é um de seus desenhos mais célebres.",
+      "cuidado": "Confirme o ano e a casa da moeda: há soberanos cunhados em vários países da Commonwealth."
+    },
+    "Denário": {
+      "sistema_monetario": "Denarius (moeda romana)",
+      "regiao": "Roma Antiga",
+      "periodo_aproximado": "Cerca do século III a.C. até o século III d.C.",
+      "contexto_historico": "O denário foi a principal moeda de prata da Roma Antiga por séculos, base do sistema monetário do mundo romano e referência comercial em vasto território.",
+      "transicao": "Perdeu valor com a desvalorização da prata e foi substituído por outras moedas no Império tardio.",
+      "curiosidade": "Seu nome ecoa até hoje em moedas como o 'dinar'.",
+      "cuidado": "Peças romanas exigem cuidado redobrado com autenticidade; trate datas como aproximadas."
+    },
+    "Sestércio": {
+      "sistema_monetario": "Sestertius (Roma Antiga)",
+      "regiao": "Roma Antiga",
+      "periodo_aproximado": "República e Império Romano",
+      "contexto_historico": "O sestércio foi uma denominação romana usada tanto como moeda quanto como unidade de conta para registrar valores e fortunas.",
+      "transicao": "Caiu em desuso na transformação monetária do Império tardio.",
+      "curiosidade": "Fortunas romanas eram frequentemente contadas em sestércios nos registros da época.",
+      "cuidado": "Distinga o sestércio como moeda física do sestércio como unidade de conta."
+    },
+    "Real de a Ocho": {
+      "sistema_monetario": "Real de a ocho (peso de oito)",
+      "regiao": "Império Espanhol",
+      "periodo_aproximado": "Século XVI ao XIX",
+      "contexto_historico": "O real de a ocho, ou 'peso de oito', foi uma moeda de prata espanhola que se tornou um dos primeiros meios de pagamento de alcance quase mundial, circulando da América à Ásia.",
+      "transicao": "Deu origem ao 'peso' de vários países e influenciou até o dólar.",
+      "curiosidade": "É frequentemente associado ao imaginário dos piratas e do comércio colonial.",
+      "cuidado": "Peças coloniais de prata pedem atenção à autenticidade e à casa da moeda de origem."
+    }
+  }
+}
