@@ -5,7 +5,7 @@ import streamlit as st
 
 # ============ CONFIGURAÇÃO ============
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODELO = "gwen2.5"
+MODELO = "qwen2.5"
 
 # ============ CARREGAR DADOS ============
 acervo = pd.read_csv("./data/acervo_moedas.csv")
