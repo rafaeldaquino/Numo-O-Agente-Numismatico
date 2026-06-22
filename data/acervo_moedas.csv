@@ -1,0 +1,213 @@
+id,descricao,pais,categoria,metal,casa_moeda,denominacao,valor_facial,ano,ano_fim,estado_conservacao,peso_g,diametro_mm,tiragem,quantidade,preco_aquisicao,data_aquisicao,moeda_compra,valor_estimado_atual,numista_n,km_ref,local
+1,100 Réis 1756 - Brasil,Brasil,Imperial,Prata,Casa da Moeda do Brasil,Réis,100,1756,,Bem Conservada,,20,67300,1,133.62,2024-07-02,BRL,,,,Caixa 1
+2,2000 Réis 1879 - Brasil,Brasil,Imperial,Cobre,Casa da Moeda do Brasil,Réis,2000,1879,,Soberba,4.79,31,195100,1,19.19,2024-05-26,BRL,,,,Caixa 1
+3,10 Cruzeiro 1986 - Brasil,Brasil,Circulação,Cuproníquel,Casa da Moeda do Brasil,Cruzeiro,10,1986,,MBC,2.09,27.5,31800,1,9.23,2016-06-28,BRL,,,,Caixa 6
+4,10 Cruzeiro 1988 - Brasil,Brasil,Circulação,Alumínio,Casa da Moeda do Brasil,Cruzeiro,10,1988,,MBC+,,20.2,81800,1,71.07,2020-10-07,BRL,,,,Caixa 12
+5,1 Cruzado 1988 - Brasil,Brasil,Circulação,Aço inoxidável,Casa da Moeda do Brasil,Cruzado,1,1988,,Flor de Cunho,3.4,21.7,134300,1,30.46,2020-06-07,BRL,,,,Caixa 11
+6,5 Cruzado 1987 - Brasil,Brasil,Circulação,Aço inoxidável,Casa da Moeda do Brasil,Cruzado,5,1987,,MBC+,4.52,25.9,10800,1,45.44,2020-01-08,BRL,,,,Caixa 1
+7,0.05 Real 2002 - Brasil,Brasil,Circulação,Aço,Casa da Moeda do Brasil,Real,0.05,2002,,Soberba,6.51,20.1,15800,1,32.86,2022-03-09,BRL,,,,Caixa 3
+8,1 Real 2017 - Brasil,Brasil,Circulação,Cuproníquel,Casa da Moeda do Brasil,Real,1,2017,,Soberba,4.6,19.2,169100,5,41.74,2016-01-28,BRL,,,,Caixa 2
+9,50 Centavos 1971 - Portugal,Portugal,Circulação,Níquel,Casa da Moeda de Lisboa,Centavos,50,1971,,Soberba,,20,110700,5,43.27,2023-01-22,BRL,,,,Caixa 12
+10,50 Centavos 1968 - Argentina,Argentina,Circulação,Aço,Casa de Moneda de la Nación,Centavos,50,1968,,Regular,3.76,17.1,20200,1,58.32,2019-09-25,BRL,,,,Caixa 3
+11,5 Escudo 1991 - Portugal,Portugal,Circulação,Prata,Casa da Moeda de Lisboa,Escudo,5,1991,,Bem Conservada,,21.2,75800,3,221.85,2015-10-11,BRL,,,,Caixa 8
+12,2.5 Escudo 1950 - Portugal,Portugal,Circulação,Cuproníquel,Casa da Moeda de Lisboa,Escudo,2.5,1950,,Bem Conservada,13.54,36.9,120300,1,39.91,2016-09-25,BRL,,,,Caixa 3
+13,1 Dólar 1980 - Estados Unidos,Estados Unidos,Circulação,Cuproníquel,Philadelphia Mint,Dólar,1,1980,,Soberba,24.58,31.5,12800,1,44.07,2018-12-10,BRL,,,,Caixa 7
+14,1 Dólar 1952 - Estados Unidos,Estados Unidos,Circulação,Prata,Philadelphia Mint,Dólar,1,1952,,Bem Conservada,12.27,30.4,187300,1,59.85,2018-01-03,BRL,,,,Caixa 12
+15,0.01 Cent 1877 - Estados Unidos,Estados Unidos,Circulação,Cuproníquel,Philadelphia Mint,Cent,0.01,1877,,Regular,7.14,20.6,104900,1,44.06,2024-10-16,BRL,,,,Caixa 4
+16,0.01 Cent 1908 - Estados Unidos,Estados Unidos,Circulação,Bronze,Philadelphia Mint,Cent,0.01,1908,,Soberba +,6.31,22.5,44900,1,58.87,2016-01-13,BRL,,,,Caixa 12
+17,5 Pesetas 1932 - Espanha,Espanha,Circulação,Cuproníquel,Real Casa de la Moneda,Pesetas,5,1932,,Soberba,,26,8600,1,21.48,2016-08-26,BRL,,,,Caixa 9
+18,5 Pesetas 1892 - Espanha,Espanha,Circulação,Cuproníquel,Real Casa de la Moneda,Pesetas,5,1892,,MBC+,12.66,22.1,18600,1,6.57,2021-01-13,BRL,,,,Caixa 5
+19,10 Peso 1916 - Argentina,Argentina,Circulação,Níquel,Casa de Moneda de la Nación,Peso,10,1916,,Soberba +,26.9,32,89800,1,14.07,2019-04-02,BRL,,,,Caixa 10
+20,5 Peso 1975 - México,México,Circulação,Prata,Casa de Moneda de México,Peso,5,1975,,Regular,,31.1,86600,2,42.84,2023-02-28,BRL,,,,Caixa 3
+21,1 Franc 1967 - França,França,Circulação,Aço,Monnaie de Paris,Franc,1,1967,,Regular,23.66,28.4,15300,1,5.1,2016-07-22,BRL,,,,Caixa 10
+22,1 Franc 1861 - França,França,Circulação,Alumínio,Monnaie de Paris,Franc,1,1861,,Bem Conservada,8.11,19.6,50200,1,37.66,2016-01-15,BRL,,,,Caixa 10
+23,20 Dracma 1886 - Grécia,Grécia,Circulação,Prata,,Dracma,20,1886,,Soberba,6.18,30.1,19500,2,211.75,2020-05-06,BRL,,,,Caixa 8
+24,20 Dracma 1870 - Grécia,Grécia,Circulação,Cuproníquel,,Dracma,20,1870,,Soberba +,4.24,29.4,113800,1,71.4,2023-03-09,BRL,,,,Caixa 5
+25,100 Lira 1913 - Itália,Itália,Circulação,Alumínio,Regia Zecca,Lira,100,1913,,Soberba,6.37,27.9,87900,2,9.2,2021-05-02,BRL,,,,Caixa 1
+26,2 Lira 1928 - Itália,Itália,Circulação,Bronze,Regia Zecca,Lira,2,1928,,Soberba,8.76,23.7,13100,1,75.71,2017-09-02,BRL,,,,Caixa 6
+27,1 Penny 1915 - Reino Unido,Reino Unido,Circulação,Bronze,Royal Mint,Penny,1,1915,,MBC,7.55,30.6,170300,5,5.11,2020-04-22,BRL,,,,Caixa 4
+28,1 Penny 1959 - Reino Unido,Reino Unido,Circulação,Bronze,Royal Mint,Penny,1,1959,,Bem Conservada,11.05,30.9,116800,1,70.75,2015-03-24,BRL,,,,Caixa 6
+29,1 Libra Esterlina 1988 - Reino Unido,Reino Unido,Circulação,Cuproníquel,Royal Mint,Libra Esterlina,1,1988,,Bem Conservada,11.15,22.2,26300,2,2758.81,2018-04-27,BRL,,,,Cofre
+30,1 Libra Esterlina 1895 - Reino Unido,Reino Unido,Circulação,Ouro,Royal Mint,Libra Esterlina,1,1895,,Regular,10.64,22.8,195000,1,296.59,2019-06-21,BRL,,,,Cofre
+31,1 Xelim 1863 - Reino Unido,Reino Unido,Circulação,Cuproníquel,Royal Mint,Xelim,1,1863,,Bem Conservada,9.06,28.9,46700,1,48.53,2020-12-26,BRL,,,,Caixa 6
+32,1 Xelim 1909 - Reino Unido,Reino Unido,Circulação,Cuproníquel,Royal Mint,Xelim,1,1909,,Regular,9.96,23,130100,3,44,2018-06-14,BRL,,,,Caixa 2
+33,1 Marco 1953 - Alemanha,Alemanha,Circulação,Alumínio,,Marco,1,1953,,Soberba,6.02,22.5,129400,1,25.06,2017-04-14,BRL,,,,Caixa 11
+34,10 Marco 1950 - Alemanha,Alemanha,Circulação,Prata,,Marco,10,1950,,MBC,5.73,22.7,120300,1,159.2,2022-08-15,BRL,,,,Caixa 11
+35,1 Pfennig 1916 - Alemanha,Alemanha,Circulação,Aço,,Pfennig,1,1916,,Soberba,4.98,20.6,195000,1,76.26,2018-11-10,BRL,,,,Caixa 4
+36,1 Pfennig 1879 - Alemanha,Alemanha,Circulação,Zinco,,Pfennig,1,1879,,MBC+,4.67,21.9,13600,1,71.12,2024-04-23,BRL,,,,Caixa 12
+37,2 Coroa 1906 - Noruega,Noruega,Circulação,Prata,,Coroa,2,1906,,Flor de Cunho,16.05,29.7,119100,1,57.21,2023-08-02,BRL,,,,Caixa 9
+38,2 Coroa 1933 - Suécia,Suécia,Circulação,Cuproníquel,,Coroa,2,1933,,Soberba +,11.44,26.1,120900,1,60.91,2022-10-27,BRL,,,,Caixa 12
+39,2.5 Florim 1990 - Países Baixos,Países Baixos,Circulação,Prata,,Florim,2.5,1990,,Soberba +,13.75,27,82200,1,202.53,2019-09-16,BRL,,,,Caixa 11
+40,2.5 Florim 1869 - Países Baixos,Países Baixos,Circulação,Prata,,Florim,2.5,1869,,MBC,9.02,31.8,11100,1,41.29,2021-12-05,BRL,,,,Caixa 12
+41,1 Rublo 1942 - Rússia,Rússia,Circulação,Cuproníquel,Saint Petersburg Mint,Rublo,1,1942,,MBC+,,33.7,46200,1,62.04,2015-10-13,BRL,,,,Caixa 8
+42,1 Rublo 1928 - Rússia,Rússia,Circulação,Cuproníquel,Saint Petersburg Mint,Rublo,1,1928,,Soberba,,31.4,10500,1,19.2,2018-05-14,BRL,,,,Caixa 8
+43,3 Copeque 1963 - Rússia,Rússia,Circulação,Latão,Saint Petersburg Mint,Copeque,3,1963,,Bem Conservada,8.85,20.3,115000,2,48.17,2015-02-21,BRL,,,,Caixa 7
+44,1 Copeque 1906 - Rússia,Rússia,Circulação,Aço,Saint Petersburg Mint,Copeque,1,1906,,MBC+,3.62,19.5,176800,1,70.61,2019-07-09,BRL,,,,Caixa 2
+45,5 Iene 1960 - Japão,Japão,Circulação,Prata,Japan Mint,Iene,5,1960,,Flor de Cunho,25.89,15.9,28200,1,63.86,2015-10-05,BRL,,,,Caixa 4
+46,50 Iene 1926 - Japão,Japão,Circulação,Latão,Japan Mint,Iene,50,1926,,Flor de Cunho,,28.9,60300,5,58.03,2017-05-04,BRL,,,,Caixa 10
+47,1 Yuan 1983 - China,China,Circulação,Aço,,Yuan,1,1983,,Soberba +,7.76,32.1,86800,1,20.94,2019-11-20,BRL,,,,Caixa 2
+48,1 Yuan 1954 - China,China,Circulação,Latão,,Yuan,1,1954,,MBC,4.65,33,30500,1,34.76,2022-02-14,BRL,,,,Caixa 6
+49,1 Rúpia 1901 - Índia,Índia,Circulação,Prata,,Rúpia,1,1901,,Soberba +,7.7,26.8,111700,1,221.19,2022-08-14,BRL,,,,Caixa 12
+50,1 Rúpia 1924 - Índia,Índia,Circulação,Cuproníquel,,Rúpia,1,1924,,MBC+,5.19,24.6,25100,1,31.56,2015-08-28,BRL,,,,Caixa 6
+51,10 Won 1981 - Coreia do Sul,Coreia do Sul,Circulação,Latão,,Won,10,1981,,MBC,7.16,24,117900,1,2.79,2018-02-08,BRL,,,,Caixa 12
+52,50 Won 1989 - Coreia do Sul,Coreia do Sul,Circulação,Latão,,Won,50,1989,,Flor de Cunho,1.12,19.9,64100,1,20.98,2024-06-16,BRL,,,,Caixa 9
+53,1 Dinar 2000 - Jordânia,Jordânia,Circulação,Cuproníquel,,Dinar,1,2000,,Soberba +,8.99,23.7,115700,1,58.26,2020-02-24,BRL,,,,Caixa 9
+54,1 Dinar 1953 - Sérvia,Sérvia,Circulação,Prata,,Dinar,1,1953,,Soberba +,9.33,28.7,168100,5,128.77,2019-02-27,BRL,,,,Caixa 4
+55,1 Dirham 1971 - Emirados Árabes Unidos,Emirados Árabes Unidos,Circulação,Cuproníquel,,Dirham,1,1971,,Soberba +,,22.7,140600,5,45.16,2017-11-28,BRL,,,,Caixa 8
+56,1 Dirham 1996 - Marrocos,Marrocos,Circulação,Prata,,Dirham,1,1996,,MBC+,8.4,21.8,38000,1,226.21,2022-02-27,BRL,,,,Caixa 2
+57,1 Ducado 1847 - Áustria,Áustria,Comemorativa,Ouro,Münze Österreich,Ducado,1,1847,,Bem Conservada,3.81,21.8,22100,1,854.36,2023-07-20,BRL,,,,Cofre
+58,1 Ducado 1757 - Itália,Itália,Comemorativa,Ouro,Regia Zecca,Ducado,1,1757,,MBC+,,20.8,120100,1,1854.12,2015-10-24,BRL,,,,Cofre
+59,1 Táler 1830 - Áustria,Áustria,Circulação,Prata,Münze Österreich,Táler,1,1830,,Soberba +,17.97,39,117900,1,42.63,2021-08-23,BRL,,,,Caixa 10
+60,1 Táler 1779 - Áustria,Áustria,Circulação,Prata,Münze Österreich,Táler,1,1779,,Soberba +,27.32,38.3,131800,1,67.91,2024-11-26,BRL,,,,Caixa 4
+61,1 Soberano 1982 - Reino Unido,Reino Unido,Circulação,Ouro,Royal Mint,Soberano,1,1982,,Flor de Cunho,7.14,21.1,39400,1,1936.54,2024-05-15,BRL,,,,Cofre
+62,1 Soberano 1996 - Reino Unido,Reino Unido,Circulação,Ouro,Royal Mint,Soberano,1,1996,,Soberba,,21.9,77200,1,2855,2020-10-09,BRL,,,,Cofre
+63,1 Denário 145 - Roma Antiga,Roma Antiga,Antiga,Prata,,Denário,1,145,,Soberba,3.04,19.3,20900,1,158.45,2019-03-19,BRL,,,,Caixa 7
+64,1 Denário 154 a.C. - Roma Antiga,Roma Antiga,Antiga,Prata,,Denário,1,-154,,MBC+,3.33,19,113100,2,83.17,2022-05-22,BRL,,,,Caixa 7
+65,1 Sestércio 132 - Roma Antiga,Roma Antiga,Antiga,Bronze,,Sestércio,1,132,,MBC,21.23,34.9,146800,1,42.14,2015-11-28,BRL,,,,Caixa 9
+66,1 Sestércio 4 a.C. - Roma Antiga,Roma Antiga,Antiga,Bronze,,Sestércio,1,-4,,Soberba +,22.42,30.3,13800,1,12.22,2019-08-23,BRL,,,,Caixa 8
+67,8 Real de a Ocho 1631 - México,México,Colônia,Prata,Casa de Moneda de México,Real de a Ocho,8,1631,,Soberba,25.63,38.9,116500,2,32.55,2016-11-27,BRL,,,,Caixa 3
+68,8 Real de a Ocho 1810 - Peru,Peru,Colônia,Prata,,Real de a Ocho,8,1810,,Flor de Cunho,25.93,39.9,13200,1,39.85,2018-10-17,BRL,,,,Caixa 12
+69,1 Denário 59 a.C. - Roma Antiga,Roma Antiga,Antiga,Prata,,Denário,1,-59,,Flor de Cunho,3.51,19.5,127700,1,75.86,2024-10-22,BRL,,,,Caixa 8
+70,5 Pfennig 1961 - Alemanha,Alemanha,Circulação,Latão,,Pfennig,5,1961,,MBC+,,22.8,43100,5,20.63,2021-04-28,BRL,,,,Caixa 7
+71,50 Cruzado 1989 - Brasil,Brasil,Circulação,Aço inoxidável,Casa da Moeda do Brasil,Cruzado,50,1989,,MBC+,6.86,20.8,102600,5,27.9,2016-08-04,BRL,,,,Caixa 9
+72,40 Réis 1854 - Brasil,Brasil,Imperial,Cobre,Casa da Moeda do Brasil,Réis,40,1854,,MBC+,10.03,23.3,140300,1,33,2016-06-28,BRL,,,,Caixa 11
+73,5 Franc 1955 - França,França,Circulação,Prata,Monnaie de Paris,Franc,5,1955,,Soberba,3.57,29.6,109800,3,239.4,2016-07-04,BRL,,,,Caixa 11
+74,50 Centavos 1891 - México,México,Circulação,Aço,Casa de Moneda de México,Centavos,50,1891,,Regular,2.28,25.3,88500,1,31.24,2017-04-17,BRL,,,,Caixa 7
+75,1 Dinar 1951 - Iraque,Iraque,Circulação,Prata,,Dinar,1,1951,,Soberba,13.58,27.4,160100,1,219.6,2017-04-15,BRL,,,,Caixa 11
+76,5 Cruzeiro 1971 - Brasil,Brasil,Circulação,Aço,Casa da Moeda do Brasil,Cruzeiro,5,1971,,Regular,4.09,20.8,65300,1,51.84,2021-12-09,BRL,,,,Caixa 8
+77,10 Peso 1989 - Argentina,Argentina,Circulação,Prata,Casa de Moneda de la Nación,Peso,10,1989,,Bem Conservada,,28.5,96300,1,169.63,2015-11-13,BRL,,,,Caixa 5
+78,1 Denário 110 - Roma Antiga,Roma Antiga,Antiga,Prata,,Denário,1,110,,Flor de Cunho,3.8,18.8,120900,1,154.97,2024-05-22,BRL,,,,Caixa 12
+79,1 Dólar 2000 - Estados Unidos,Estados Unidos,Circulação,Prata,Philadelphia Mint,Dólar,1,2000,,MBC,22.98,26.4,190100,1,36.75,2019-06-24,BRL,,,,Caixa 7
+80,0.5 Cent 1995 - Estados Unidos,Estados Unidos,Circulação,Cuproníquel,Philadelphia Mint,Cent,0.5,1995,,Flor de Cunho,3.65,28.9,93800,3,77.46,2019-12-28,BRL,,,,Caixa 6
+81,2 Pfennig 1909 - Alemanha,Alemanha,Circulação,Latão,,Pfennig,2,1909,,Flor de Cunho,5.83,18.3,75000,1,3.09,2023-02-15,BRL,,,,Caixa 6
+82,50 Won 1996 - Coreia do Sul,Coreia do Sul,Circulação,Alumínio,,Won,50,1996,,MBC,1.76,19.3,62300,1,70.97,2023-06-20,BRL,,,,Caixa 4
+83,1 Rúpia 1939 - Índia,Índia,Circulação,Prata,,Rúpia,1,1939,,Bem Conservada,3.41,19.4,51800,5,33.17,2018-09-05,BRL,,,,Caixa 7
+84,5 Won 1996 - Coreia do Sul,Coreia do Sul,Circulação,Latão,,Won,5,1996,,Soberba +,1.69,21.9,163600,1,76.22,2015-12-12,BRL,,,,Caixa 4
+85,50 Cruzeiro 1948 - Brasil,Brasil,Circulação,Cuproníquel,Casa da Moeda do Brasil,Cruzeiro,50,1948,,Soberba,7.31,24.1,37800,1,23.52,2016-08-03,BRL,,,,Caixa 11
+86,1 Rúpia 1874 - Índia,Índia,Circulação,Prata,,Rúpia,1,1874,,Bem Conservada,10.08,21.5,144100,1,135.68,2024-04-27,BRL,,,,Caixa 4
+87,0.05 Cent 1930 - Estados Unidos,Estados Unidos,Circulação,Cobre,Philadelphia Mint,Cent,0.05,1930,,Soberba,4.51,19.3,160700,1,4.01,2015-06-26,BRL,,,,Caixa 4
+88,10 Réis 1817 - Brasil,Brasil,Imperial,Prata,Casa da Moeda do Brasil,Réis,10,1817,,Soberba +,6.79,20.3,50900,1,110.9,2020-09-19,BRL,,,,Caixa 2
+89,50 Cruzeiro 1988 - Brasil,Brasil,Circulação,Cuproníquel,Casa da Moeda do Brasil,Cruzeiro,50,1988,,MBC+,5.5,17.3,17700,5,68.09,2021-11-04,BRL,,,,Caixa 8
+90,5 Marco 1893 - Alemanha,Alemanha,Circulação,Cuproníquel,,Marco,5,1893,,Regular,3.64,24.9,118600,1,57.55,2021-10-17,BRL,,,,Caixa 5
+91,1 Dracma 1893 - Grécia,Grécia,Circulação,Níquel,,Dracma,1,1893,,Soberba +,13.53,25.2,62400,2,35.55,2018-07-11,BRL,,,,Caixa 8
+92,50 Cruzado 1988 - Brasil,Brasil,Circulação,Aço inoxidável,Casa da Moeda do Brasil,Cruzado,50,1988,,Soberba +,,25.7,108500,1,38.99,2016-02-03,BRL,,,,Caixa 7
+93,1 Cruzado 1987 - Brasil,Brasil,Circulação,Aço inoxidável,Casa da Moeda do Brasil,Cruzado,1,1987,,Soberba +,3.49,22.1,102300,1,60.52,2015-05-20,BRL,,,,Caixa 5
+94,2 Xelim 1879 - Reino Unido,Reino Unido,Circulação,Prata,Royal Mint,Xelim,2,1879,,Flor de Cunho,5.76,28.1,180200,1,184.45,2024-04-26,BRL,,,,Caixa 7
+95,1 Yuan 1987 - China,China,Circulação,Prata,,Yuan,1,1987,,Bem Conservada,9.56,35,71300,3,88.14,2017-03-19,BRL,,,,Caixa 11
+96,0.5 Cent 1883 - Estados Unidos,Estados Unidos,Circulação,Cobre,Philadelphia Mint,Cent,0.5,1883,,MBC+,6.2,21.4,150300,1,58.28,2024-10-03,BRL,,,,Caixa 1
+97,2.5 Florim 1870 - Países Baixos,Países Baixos,Circulação,Níquel,,Florim,2.5,1870,,Soberba +,,28.7,92900,1,18.81,2023-02-12,BRL,,,,Caixa 7
+98,10 Won 1992 - Coreia do Sul,Coreia do Sul,Circulação,Cuproníquel,,Won,10,1992,,Bem Conservada,3.77,23,59900,1,25.51,2018-03-25,BRL,,,,Caixa 5
+99,50 Centavos 1933 - Brasil,Brasil,Circulação,Níquel,Casa da Moeda do Brasil,Centavos,50,1933,,Bem Conservada,,21.9,125700,1,45.58,2020-02-13,BRL,,,,Caixa 12
+100,200 Réis 1769 - Portugal,Portugal,Imperial,Cuproníquel,Casa da Moeda de Lisboa,Réis,200,1769,,Soberba,6.64,30.8,15900,1,33.59,2020-03-26,BRL,,,,Caixa 10
+101,1 Dólar 1862 - Estados Unidos,Estados Unidos,Circulação,Prata,Philadelphia Mint,Dólar,1,1862,,Bem Conservada,,31.2,25100,1,209.7,2020-04-11,BRL,,,,Caixa 3
+102,1 Rúpia 1997 - Índia,Índia,Circulação,Cuproníquel,,Rúpia,1,1997,,MBC,9.55,28.8,105800,1,20.43,2017-05-07,BRL,,,,Caixa 3
+103,2.5 Florim 1895 - Países Baixos,Países Baixos,Circulação,Níquel,,Florim,2.5,1895,,Flor de Cunho,11.07,28.4,86600,1,70.8,2024-06-28,BRL,,,,Caixa 11
+104,10 Marco 1993 - Alemanha,Alemanha,Circulação,Alumínio,,Marco,10,1993,,Flor de Cunho,5.57,18.6,34700,1,26.21,2022-01-02,BRL,,,,Caixa 6
+105,20 Centavos 1948 - Brasil,Brasil,Circulação,Níquel,Casa da Moeda do Brasil,Centavos,20,1948,,MBC+,5.48,27.4,156000,1,5.2,2024-11-07,BRL,,,,Caixa 6
+106,50 Iene 1886 - Japão,Japão,Circulação,Prata,Japan Mint,Iene,50,1886,,Flor de Cunho,24.38,22.9,71000,1,124.06,2017-01-08,BRL,,,,Caixa 12
+107,5 Marco 1966 - Alemanha,Alemanha,Circulação,Alumínio,,Marco,5,1966,,MBC+,7.31,21.7,32100,1,63.56,2020-02-11,BRL,,,,Caixa 2
+108,100 Lira 1925 - Itália,Itália,Circulação,Aço inoxidável,Regia Zecca,Lira,100,1925,,MBC,1.9,25,192100,3,26.2,2021-03-20,BRL,,,,Caixa 12
+109,50 Escudo 1993 - Portugal,Portugal,Circulação,Bronze,Casa da Moeda de Lisboa,Escudo,50,1993,,Flor de Cunho,4.53,32.1,101100,3,79.78,2023-02-21,BRL,,,,Caixa 11
+110,2 Franc 1887 - França,França,Circulação,Níquel,Monnaie de Paris,Franc,2,1887,,Bem Conservada,9.86,32.3,87300,1,80,2017-02-10,BRL,,,,Caixa 2
+111,1 Penny 1944 - Reino Unido,Reino Unido,Circulação,Bronze,Royal Mint,Penny,1,1944,,Soberba,7.64,26,9000,1,62.15,2017-12-15,BRL,,,,Caixa 1
+112,100 Won 1987 - Coreia do Sul,Coreia do Sul,Circulação,Latão,,Won,100,1987,,Flor de Cunho,6.24,21.5,198000,1,26.14,2022-04-12,BRL,,,,Caixa 11
+113,10 Marco 1945 - Alemanha,Alemanha,Circulação,Níquel,,Marco,10,1945,,Bem Conservada,12.62,26.8,137800,1,21.5,2022-06-18,BRL,,,,Caixa 2
+114,2 Copeque 1932 - Rússia,Rússia,Circulação,Bronze,Saint Petersburg Mint,Copeque,2,1932,,MBC,4.59,20.1,16800,1,9.15,2018-08-12,BRL,,,,Caixa 1
+115,10 Lira 1921 - Itália,Itália,Circulação,Prata,Regia Zecca,Lira,10,1921,,MBC,3.47,20.8,157500,1,173.24,2020-03-05,BRL,,,,Caixa 1
+116,1 Soberano 1995 - Reino Unido,Reino Unido,Circulação,Ouro,Royal Mint,Soberano,1,1995,,MBC+,7.62,22.8,115200,1,752.84,2017-09-24,BRL,,,,Cofre
+117,2 Marco 1946 - Alemanha,Alemanha,Circulação,Alumínio,,Marco,2,1946,,Regular,,22.6,118300,1,37.65,2016-08-20,BRL,,,,Caixa 9
+118,10 Copeque 1896 - Rússia,Rússia,Circulação,Latão,Saint Petersburg Mint,Copeque,10,1896,,Regular,5.92,17.4,162600,1,53.82,2016-09-12,BRL,,,,Caixa 2
+119,1 Penny 1909 - Reino Unido,Reino Unido,Circulação,Bronze,Royal Mint,Penny,1,1909,,Soberba +,7.71,27.2,180200,1,29.85,2016-06-08,BRL,,,,Caixa 12
+120,1 Centavos 1887 - Argentina,Argentina,Circulação,Aço,Casa de Moneda de la Nación,Centavos,1,1887,,Soberba,,23.4,168500,1,55.41,2022-11-06,BRL,,,,Caixa 3
+121,1 Yuan 1914 - China,China,Circulação,Prata,,Yuan,1,1914,,Regular,,37.1,65200,1,78.56,2021-09-16,BRL,,,,Caixa 5
+122,1 Rúpia 1935 - Índia,Índia,Circulação,Prata,,Rúpia,1,1935,,Flor de Cunho,8.9,22.3,70600,1,108.25,2021-12-15,BRL,,,,Caixa 7
+123,10 Peso 1968 - Argentina,Argentina,Circulação,Cuproníquel,Casa de Moneda de la Nación,Peso,10,1968,,Flor de Cunho,16.42,36.4,143300,1,8.16,2024-03-18,BRL,,,,Caixa 5
+124,5 Centavos 1954 - Argentina,Argentina,Circulação,Aço,Casa de Moneda de la Nación,Centavos,5,1954,,MBC+,5.62,20.5,72700,1,29.42,2015-12-28,BRL,,,,Caixa 6
+125,1 Marco 1887 - Alemanha,Alemanha,Circulação,Níquel,,Marco,1,1887,,MBC,,26.2,122700,1,4.43,2024-11-26,BRL,,,,Caixa 8
+126,200 Réis 1915 - Brasil,Brasil,Imperial,Bronze,Casa da Moeda do Brasil,Réis,200,1915,,MBC+,11.55,18.6,102700,1,37.09,2020-06-15,BRL,,,,Caixa 2
+127,15 Copeque 1961 - Rússia,Rússia,Circulação,Aço,Saint Petersburg Mint,Copeque,15,1961,,Bem Conservada,8.68,15.3,119700,1,42.38,2023-02-09,BRL,,,,Caixa 5
+128,10 Peso 1916 - Chile,Chile,Circulação,Prata,,Peso,10,1916,,Regular,7.99,23.3,164200,1,172.93,2016-11-28,BRL,,,,Caixa 6
+129,1 Rublo 1960 - Rússia,Rússia,Circulação,Cuproníquel,Saint Petersburg Mint,Rublo,1,1960,,Flor de Cunho,11.73,32.7,94400,1,15.58,2020-09-08,BRL,,,,Caixa 2
+130,1 Dinar 1960 - Iraque,Iraque,Circulação,Prata,,Dinar,1,1960,,MBC,10.09,24.4,15000,1,135.09,2024-02-03,BRL,,,,Caixa 5
+131,1 Rublo 1957 - Rússia,Rússia,Circulação,Cuproníquel,Saint Petersburg Mint,Rublo,1,1957,,Flor de Cunho,16.32,28,173000,1,7.78,2022-11-17,BRL,,,,Caixa 6
+132,1 Soberano 1850 - Reino Unido,Reino Unido,Circulação,Ouro,Royal Mint,Soberano,1,1850,,Flor de Cunho,7.12,21.3,20100,1,1086.7,2018-06-17,BRL,,,,Cofre
+133,1 Ducado 1764 - Áustria,Áustria,Comemorativa,Ouro,Münze Österreich,Ducado,1,1764,,Bem Conservada,3.63,20.8,194400,1,2079.88,2024-10-05,BRL,,,,Cofre
+134,5 Coroa 1990 - Dinamarca,Dinamarca,Circulação,Prata,,Coroa,5,1990,,Flor de Cunho,16.09,20.9,56200,3,186.42,2019-11-07,BRL,,,,Caixa 10
+135,1 Rúpia 1989 - Índia,Índia,Circulação,Níquel,,Rúpia,1,1989,,MBC,7.35,28.7,98000,1,25.2,2016-12-02,BRL,,,,Caixa 3
+136,10 Iene 1923 - Japão,Japão,Circulação,Alumínio,Japan Mint,Iene,10,1923,,MBC,23.4,22.3,143700,5,28.94,2021-03-25,BRL,,,,Caixa 6
+137,10 Centavos 1900 - Argentina,Argentina,Circulação,Bronze,Casa de Moneda de la Nación,Centavos,10,1900,,MBC,4.7,16.8,137000,1,75.74,2024-07-08,BRL,,,,Caixa 3
+138,1 Xelim 1884 - Reino Unido,Reino Unido,Circulação,Cuproníquel,Royal Mint,Xelim,1,1884,,Soberba,8.27,28.3,14300,1,9.02,2021-09-15,BRL,,,,Caixa 4
+139,2 Franc 1807 - França,França,Circulação,Aço,Monnaie de Paris,Franc,2,1807,,Soberba,22.29,30.1,13400,1,43.86,2016-07-05,BRL,,,,Caixa 5
+140,1 Florim 1943 - Países Baixos,Países Baixos,Circulação,Níquel,,Florim,1,1943,,Regular,11.13,24.1,150700,1,7.74,2023-08-25,BRL,,,,Caixa 9
+141,1 Coroa 1953 - Dinamarca,Dinamarca,Circulação,Prata,,Coroa,1,1953,,Regular,9.51,28.7,144600,1,225.71,2017-04-20,BRL,,,,Caixa 9
+142,40 Réis 1759 - Brasil,Brasil,Imperial,Bronze,Casa da Moeda do Brasil,Réis,40,1759,,Flor de Cunho,7.26,27.1,64400,1,42.21,2020-10-11,BRL,,,,Caixa 3
+143,5 Coroa 1982 - Dinamarca,Dinamarca,Circulação,Cuproníquel,,Coroa,5,1982,,Soberba,,25.9,133500,1,25.38,2015-06-11,BRL,,,,Caixa 11
+144,10 Marco 1879 - Alemanha,Alemanha,Circulação,Alumínio,,Marco,10,1879,,Soberba +,12.18,26.5,119300,1,58.27,2024-08-06,BRL,,,,Caixa 9
+145,2 Coroa 1893 - Noruega,Noruega,Circulação,Prata,,Coroa,2,1893,,Soberba,17.27,21.2,140500,1,79.4,2017-07-23,BRL,,,,Caixa 4
+146,1 Yuan 1917 - China,China,Circulação,Latão,,Yuan,1,1917,,Bem Conservada,16.46,39,169300,1,31.39,2017-08-18,BRL,,,,Caixa 6
+147,50 Won 1998 - Coreia do Sul,Coreia do Sul,Circulação,Cuproníquel,,Won,50,1998,,Bem Conservada,2.95,20,92200,3,78.62,2019-12-07,BRL,,,,Caixa 12
+148,20 Escudo 1955 - Portugal,Portugal,Circulação,Bronze,Casa da Moeda de Lisboa,Escudo,20,1955,,MBC,4.46,31.5,59200,1,78.45,2020-03-10,BRL,,,,Caixa 1
+149,1 Rublo 1934 - Rússia,Rússia,Circulação,Cuproníquel,Saint Petersburg Mint,Rublo,1,1934,,Soberba +,15.27,28.6,147700,1,74.78,2019-03-04,BRL,,,,Caixa 10
+150,50 Cruzeiro 1945 - Brasil,Brasil,Circulação,Aço,Casa da Moeda do Brasil,Cruzeiro,50,1945,,Soberba +,2.63,18.1,80000,1,38.85,2017-01-18,BRL,,,,Caixa 3
+151,1 Sestércio 144 - Roma Antiga,Roma Antiga,Antiga,Bronze,,Sestércio,1,144,,MBC,20.85,30.3,182600,1,52.88,2018-09-24,BRL,,,,Caixa 12
+152,40 Réis 1856 - Brasil,Brasil,Imperial,Cobre,Casa da Moeda do Brasil,Réis,40,1856,,Flor de Cunho,6.57,27.9,137900,3,77.05,2019-01-01,BRL,,,,Caixa 5
+153,10 Centavos 1906 - Argentina,Argentina,Circulação,Níquel,Casa de Moneda de la Nación,Centavos,10,1906,,Bem Conservada,7.11,21.1,72000,1,10.79,2017-12-15,BRL,,,,Caixa 11
+154,5 Peso 1974 - México,México,Circulação,Cuproníquel,Casa de Moneda de México,Peso,5,1974,,Soberba,,25.5,5600,1,51.82,2021-07-17,BRL,,,,Caixa 6
+155,5 Won 1970 - Coreia do Sul,Coreia do Sul,Circulação,Latão,,Won,5,1970,,MBC,7.55,17.1,193600,1,36.85,2019-06-10,BRL,,,,Caixa 10
+156,200 Réis 1917 - Portugal,Portugal,Imperial,Prata,Casa da Moeda de Lisboa,Réis,200,1917,,Regular,9.01,27.3,95500,1,166.54,2019-12-04,BRL,,,,Caixa 11
+157,2.5 Escudo 1989 - Portugal,Portugal,Circulação,Prata,Casa da Moeda de Lisboa,Escudo,2.5,1989,,Bem Conservada,8.74,27.1,73700,5,93.43,2023-08-25,BRL,,,,Caixa 9
+158,1 Libra Esterlina 1880 - Reino Unido,Reino Unido,Circulação,Cuproníquel,Royal Mint,Libra Esterlina,1,1880,,Soberba,10.82,22.2,35400,1,272.69,2023-09-07,BRL,,,,Cofre
+159,0.5 Cent 1943 - Estados Unidos,Estados Unidos,Circulação,Níquel,Philadelphia Mint,Cent,0.5,1943,,Regular,8.8,26.3,126100,1,72.11,2022-01-15,BRL,,,,Caixa 3
+160,5 Pfennig 1991 - Alemanha,Alemanha,Circulação,Bronze,,Pfennig,5,1991,,MBC+,2.53,15,24900,1,7.7,2021-06-23,BRL,,,,Caixa 2
+161,10 Réis 1870 - Brasil,Brasil,Imperial,Bronze,Casa da Moeda do Brasil,Réis,10,1870,,MBC+,4.62,20.7,102100,1,58.88,2021-06-13,BRL,,,,Caixa 8
+162,10 Franc 1815 - França,França,Circulação,Níquel,Monnaie de Paris,Franc,10,1815,,Soberba +,21.79,19.4,13000,5,32.66,2017-12-08,BRL,,,,Caixa 1
+163,25 Escudo 1997 - Portugal,Portugal,Circulação,Alpaca,Casa da Moeda de Lisboa,Escudo,25,1997,,Soberba,,22.6,45600,1,14.1,2018-12-25,BRL,,,,Caixa 2
+164,1 Won 1998 - Coreia do Sul,Coreia do Sul,Circulação,Cuproníquel,,Won,1,1998,,Bem Conservada,1.47,22.9,158300,1,54.42,2015-04-24,BRL,,,,Caixa 1
+165,1 Cruzeiro 1990 - Brasil,Brasil,Circulação,Aço,Casa da Moeda do Brasil,Cruzeiro,1,1990,,Soberba,7.95,19.6,59800,2,46.94,2024-10-25,BRL,,,,Caixa 11
+166,50 Cruzeiro 1951 - Brasil,Brasil,Circulação,Aço,Casa da Moeda do Brasil,Cruzeiro,50,1951,,MBC+,3.1,17.7,27400,3,70.62,2017-11-22,BRL,,,,Caixa 7
+167,400 Réis 1914 - Portugal,Portugal,Imperial,Bronze,Casa da Moeda de Lisboa,Réis,400,1914,,Soberba +,6.75,21,152200,1,60.84,2022-04-28,BRL,,,,Caixa 4
+168,1 Rublo 1993 - Rússia,Rússia,Circulação,Prata,Saint Petersburg Mint,Rublo,1,1993,,Soberba,,30.3,51700,1,96.89,2019-04-11,BRL,,,,Caixa 11
+169,50 Pfennig 1896 - Alemanha,Alemanha,Circulação,Zinco,,Pfennig,50,1896,,Regular,2.61,21.1,82400,1,70.14,2018-10-24,BRL,,,,Caixa 11
+170,10 Iene 1956 - Japão,Japão,Circulação,Prata,Japan Mint,Iene,10,1956,,Bem Conservada,25.37,37.1,81000,1,239.9,2022-04-23,BRL,,,,Caixa 10
+171,5 Lira 1943 - Itália,Itália,Circulação,Bronze,Regia Zecca,Lira,5,1943,,MBC+,6.87,21.3,188700,1,42,2022-08-04,BRL,,,,Caixa 12
+172,1 Soberano 1869 - Reino Unido,Reino Unido,Circulação,Ouro,Royal Mint,Soberano,1,1869,,MBC+,7.05,22.7,179400,1,130.61,2023-10-19,BRL,,,,Cofre
+173,5 Escudo 1936 - Portugal,Portugal,Circulação,Prata,Casa da Moeda de Lisboa,Escudo,5,1936,,MBC+,9.84,22.9,102600,1,226.77,2020-05-25,BRL,,,,Caixa 8
+174,1 Rúpia 1979 - Índia,Índia,Circulação,Níquel,,Rúpia,1,1979,,Flor de Cunho,,20.7,17500,1,16.36,2023-11-02,BRL,,,,Caixa 9
+175,1 Ducado 1909 - Áustria,Áustria,Comemorativa,Ouro,Münze Österreich,Ducado,1,1909,,MBC+,3.14,20.9,35000,1,551.21,2018-09-15,BRL,,,,Cofre
+176,10 Coroa 1960 - Dinamarca,Dinamarca,Circulação,Cuproníquel,,Coroa,10,1960,,Regular,4.09,26.1,92900,1,43.29,2019-09-10,BRL,,,,Caixa 1
+177,1 Dólar 1885 - Estados Unidos,Estados Unidos,Circulação,Prata,Philadelphia Mint,Dólar,1,1885,,Soberba,10.83,28.5,83200,1,196.76,2019-07-03,BRL,,,,Caixa 6
+178,5 Pfennig 1930 - Alemanha,Alemanha,Circulação,Bronze,,Pfennig,5,1930,,Soberba +,6.95,20.8,113500,1,33.61,2021-09-16,BRL,,,,Caixa 1
+179,1 Dólar 1861 - Estados Unidos,Estados Unidos,Circulação,Cuproníquel,Philadelphia Mint,Dólar,1,1861,,Soberba +,22.9,33.4,57900,2,9.44,2023-01-08,BRL,,,,Caixa 4
+180,1 Dólar 1909 - Estados Unidos,Estados Unidos,Circulação,Prata,Philadelphia Mint,Dólar,1,1909,,Soberba +,25.59,37.7,181900,1,13.7,2020-01-07,BRL,,,,Caixa 10
+181,1 Libra Esterlina 1836 - Reino Unido,Reino Unido,Circulação,Ouro,Royal Mint,Libra Esterlina,1,1836,,Soberba,8.96,23.7,29000,1,2877.16,2020-07-25,BRL,,,,Cofre
+182,1 Dinar 1940 - Sérvia,Sérvia,Circulação,Prata,,Dinar,1,1940,,Regular,,30.1,168700,1,185.95,2024-07-25,BRL,,,,Caixa 6
+183,0.1 Real 2009 - Brasil,Brasil,Circulação,Cuproníquel,Casa da Moeda do Brasil,Real,0.1,2009,,Soberba,6.76,21.3,89100,1,53.53,2016-10-10,BRL,,,,Caixa 4
+184,10 Centavos 1889 - Argentina,Argentina,Circulação,Cuproníquel,Casa de Moneda de la Nación,Centavos,10,1889,,Soberba +,,19.7,177900,1,75.55,2022-06-25,BRL,,,,Caixa 5
+185,10 Centavos 1925 - Portugal,Portugal,Circulação,Níquel,Casa da Moeda de Lisboa,Centavos,10,1925,,Regular,2.16,19.6,113600,1,48.65,2020-07-01,BRL,,,,Caixa 5
+186,1 Yuan 1981 - China,China,Circulação,Latão,,Yuan,1,1981,,Soberba,7.07,28.5,58000,1,25.49,2022-03-03,BRL,,,,Caixa 3
+187,1 Marco 1996 - Alemanha,Alemanha,Circulação,Alumínio,,Marco,1,1996,,MBC,,25.9,145600,1,50.1,2022-02-05,BRL,,,,Caixa 5
+188,5 Lira 1958 - Itália,Itália,Circulação,Bronze,Regia Zecca,Lira,5,1958,,MBC,5.74,26.9,86000,1,48.36,2019-06-20,BRL,,,,Caixa 12
+189,5 Escudo 1961 - Portugal,Portugal,Circulação,Bronze,Casa da Moeda de Lisboa,Escudo,5,1961,,Soberba +,11.34,27.8,74400,1,20.91,2021-05-27,BRL,,,,Caixa 7
+190,1 Xelim 1935 - Reino Unido,Reino Unido,Circulação,Prata,Royal Mint,Xelim,1,1935,,Soberba +,8.23,27.3,140800,1,74.17,2016-07-22,BRL,,,,Caixa 8
+191,25 Escudo 1943 - Portugal,Portugal,Circulação,Prata,Casa da Moeda de Lisboa,Escudo,25,1943,,Soberba +,8.08,25.5,182000,1,145.92,2024-07-18,BRL,,,,Caixa 9
+192,1 Denário 78 - Roma Antiga,Roma Antiga,Antiga,Prata,,Denário,1,78,,Soberba +,3.9,18.6,78900,1,25.89,2018-11-22,BRL,,,,Caixa 6
+193,10 Coroa 1947 - Suécia,Suécia,Circulação,Cuproníquel,,Coroa,10,1947,,Flor de Cunho,10.03,20.1,197100,1,41.83,2023-09-19,BRL,,,,Caixa 12
+194,10 Pfennig 1973 - Alemanha,Alemanha,Circulação,Zinco,,Pfennig,10,1973,,MBC,6.99,19.3,48200,1,73.8,2016-02-27,BRL,,,,Caixa 12
+195,50 Escudo 1969 - Portugal,Portugal,Circulação,Prata,Casa da Moeda de Lisboa,Escudo,50,1969,,Soberba,8.8,27.5,31900,1,169.04,2020-02-10,BRL,,,,Caixa 1
+196,5 Centavos 1978 - Brasil,Brasil,Circulação,Bronze,Casa da Moeda do Brasil,Centavos,5,1978,,Soberba +,6.8,27.1,17900,1,42.25,2023-03-11,BRL,,,,Caixa 9
+197,2 Pfennig 1976 - Alemanha,Alemanha,Circulação,Zinco,,Pfennig,2,1976,,Soberba +,,18.6,37000,1,70.88,2022-10-14,BRL,,,,Caixa 7
+198,1 Peso 1915 - México,México,Circulação,Níquel,Casa de Moneda de México,Peso,1,1915,,Regular,22.59,31.7,31900,1,17.37,2016-05-22,BRL,,,,Caixa 8
+199,1 Rúpia 1961 - Índia,Índia,Circulação,Níquel,,Rúpia,1,1961,,Regular,6.13,29.1,48500,1,65.47,2019-10-19,BRL,,,,Caixa 2
+200,5 Escudo 1941 - Portugal,Portugal,Circulação,Cuproníquel,Casa da Moeda de Lisboa,Escudo,5,1941,,Bem Conservada,7.48,20.8,135800,1,48.52,2024-07-14,BRL,,,,Caixa 3
+201,50 Copeque 1902 - Rússia,Rússia,Circulação,Aço,Saint Petersburg Mint,Copeque,50,1902,,Bem Conservada,2.5,23.4,48700,1,69.51,2015-08-05,BRL,,,,Caixa 4
+202,1 Penny 1912 - Reino Unido,Reino Unido,Circulação,Cobre,Royal Mint,Penny,1,1912,,Soberba +,10.88,27.9,3400,1,4.41,2018-05-02,BRL,,,,Caixa 5
+203,0.5 Real 2018 - Brasil,Brasil,Circulação,Bimetálico,Casa da Moeda do Brasil,Real,0.5,2018,,Soberba +,6.09,22,100300,1,46.67,2019-09-27,BRL,,,,Caixa 6
+204,1 Florim 1962 - Países Baixos,Países Baixos,Circulação,Níquel,,Florim,1,1962,,Regular,12.62,29.2,171200,1,70.24,2015-08-09,BRL,,,,Caixa 6
+205,1 Centavos 1980 - México,México,Circulação,Cuproníquel,Casa de Moneda de México,Centavos,1,1980,,Bem Conservada,6.86,22.6,121600,1,57.44,2021-03-20,BRL,,,,Caixa 3
+206,40 Réis 1823 - Brasil,Brasil,Imperial,Cobre,Casa da Moeda do Brasil,Réis,40,1823,,MBC,7.5,32,45000,1,25.00,2019-05-10,BRL,,,,Caixa 1
+207,1 Dólar 1921 - Estados Unidos,Estados Unidos,Circulação,Prata,Philadelphia Mint,Dólar,1,1921,,Soberba +,26.73,38.1,120000,1,200.00,2022-04-18,BRL,,,,Caixa 3
+208,5 Pesetas 1898 - Espanha,Espanha,Circulação,Prata,Real Casa de la Moneda,Pesetas,5,1898,,MBC,25,37,88000,1,90.00,2022-09-05,BRL,,,,Caixa 4
+209,40 Réis 1823 - Brasil,Brasil,Imperial,Cobre,Casa da Moeda do Brasil,Réis,40,1823,,Regular,7.5,32,45000,1,12.00,2020-08-14,BRL,,,,Caixa 1
+210,40 Réis 1823 - Brasil,Brasil,Imperial,Cobre,Casa da Moeda do Brasil,Réis,40,1823,,Soberba,7.5,32,45000,1,60.00,2023-03-02,BRL,,,,Caixa 1
+211,1 Dólar 1921 - Estados Unidos,Estados Unidos,Circulação,Prata,Philadelphia Mint,Dólar,1,1921,,MBC,26.73,38.1,120000,1,150.00,2023-06-20,BRL,,,,Caixa 3
+212,5 Pesetas 1898 - Espanha,Espanha,Circulação,Prata,Real Casa de la Moneda,Pesetas,5,1898,,Bem Conservada,25,37,88000,1,75.00,2024-01-10,BRL,,,,Caixa 4
