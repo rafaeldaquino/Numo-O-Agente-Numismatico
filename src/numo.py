@@ -9,17 +9,17 @@ MODELO = "gwen2.5"
 
 # ============ CARREGAR DADOS ============
 acervo = pd.read_csv("./data/acervo_moedas.csv")
-denominacoes = json.load(open("./data/denominacoes.json"))
-perfil = json.load(open("./data/perfil_colecionador.json"))
+denominacoes = json.load(open("./data/denominacoes.json", encoding="utf-8"))
+perfil = json.load(open("./data/perfil_colecionador.json", encoding="utf-8"))
 
 # ============ MONTAR CONTEXTO ============
 contexto = f"""
-CLIENTE: {perfil['nome_colecionador']}, {perfil['perfil']}, perfil {perfil['nível_conhecimento']}
+CLIENTE: {perfil['nome_colecionador']}, {perfil['perfil']}, perfil {perfil['nivel_conhecimento']}
 OBJETIVO: {perfil['objetivo_do_acervo']}
 PAÍSES FOCO: {perfil['paises_foco']}
 
 DENOMINAÇÕES DISPONÍVEIS:
-{json.dumps(produtos, indent=2, ensure_ascii=False)}
+{json.dumps(denominacoes, indent=2, ensure_ascii=False)}
 """
 
 # ============ SYSTEM PROMPT ============
